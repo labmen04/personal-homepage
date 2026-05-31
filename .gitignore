@@ -1,0 +1,10 @@
+node_modules
+dist
+.tools
+*.tsbuildinfo
+.env
+.env.local
+.DS_Store
+
+# Local Netlify folder
+.netlify
